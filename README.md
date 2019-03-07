@@ -1,13 +1,3 @@
----
-title: MyHome Controller
-layout: page
-ermalink: "/products/controller/"
-menu_section: Железо
-menu_level: 2
-menu_item: MyHome Controller
-menu_order: 10
----
-
 **MyHome Controller v 1.1** предназначен для создания устройств **MyHome** с автономным и 
 сетевым питанием и подключение к системе умного дома через радиомодуль NRF24L01+.
 
@@ -19,9 +9,9 @@ menu_order: 10
 На обратной стороне платы установлен миниатюрный SMD радиомодуль на базе
 *[NRF24L01+ от Nordic Semiconductor](https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF24L01PPSv10.pdf)*
 
-![](/products/c3.jpg)
-![](/products/c4.jpg)
-![](/products/101.jpg)
+![](/Img/c3.jpg)
+![](/Img/c4.jpg)
+![](/Img/101.jpg)
 Характеристики MyHome Controller
 --------------------------------
 - Микроконтроллер: ATmega328PB-AU (TQFP32)
@@ -32,4 +22,4 @@ menu_order: 10
 
 Описание разъемов MyHome Controller
 -------------------------------------------
-![](/products/pinout.jpg){:width="100%" }
+![](/Img/pinout.jpg)
